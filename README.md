@@ -20,7 +20,7 @@ This data analysis project aims to provide insights for the car sales performanc
 
 ### Data Sources
 ---
-Car Sales Data: The primary data source used for this analysis is the "Car Sales Data.xlsx" file, containing each record of each car sale that was made for the two years by the company.
+Car Sales Data: The primary data source used for this analysis is the "Car Sales.xlsx" file, containing each record of each car sale that was made for the two years by the company.
 
 ### Tools
 ---
